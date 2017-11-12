@@ -13,3 +13,7 @@ by git adding only the files i have made changes on them
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 A different version of my project but keep my initial project as well
+
+How do the diagrams help you visualize the branch structure?
+
+They do help me get the line of commits per branch (visible , non visible ones)
