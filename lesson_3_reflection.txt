@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+When i want to access my code from a remote computer / to add contributors form all around the world
