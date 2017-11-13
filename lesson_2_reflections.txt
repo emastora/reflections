@@ -17,3 +17,9 @@ A different version of my project but keep my initial project as well
 How do the diagrams help you visualize the branch structure?
 
 They do help me get the line of commits per branch (visible , non visible ones)
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result is an updated master branch with all changes. To get an overview of the commits
+
+
