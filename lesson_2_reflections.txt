@@ -23,3 +23,6 @@ What is the result of merging two branches together? Why do we represent it in t
 The result is an updated master branch with all changes. To get an overview of the commits
 
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pros: saves time /  Cons: Don't know what to keep
