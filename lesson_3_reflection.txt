@@ -10,3 +10,7 @@ i may working on a feature and don't want conflict with master
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 Fork in github directly and pay credits to the creator / clone from github to my local environment / branches for new features
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+Can work on what contributors do
