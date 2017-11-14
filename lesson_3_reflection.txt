@@ -5,3 +5,8 @@ When i want to access my code from a remote computer / to add contributors form 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 i may working on a feature and don't want conflict with master
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Fork in github directly and pay credits to the creator / clone from github to my local environment / branches for new features
